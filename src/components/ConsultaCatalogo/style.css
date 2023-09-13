@@ -1,0 +1,12 @@
+h3 {
+  color: red;
+}
+table {
+  margin: 0 auto;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+thead {
+  padding: 10px;
+  background-color: #ccc;
+}
